@@ -1,0 +1,27 @@
+{
+  "name": "easyker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekebit/easyker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekebit/easyker/issues"
+  },
+  "homepage": "https://github.com/ekebit/easyker#readme",
+  "dependencies": {
+    "egg": "^2.23.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.13.0"
+  },
+  "description": ""
+}
